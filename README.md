@@ -1,6 +1,6 @@
-#Call for Editorial Support for Methods in Policy Analytics
+# Call for Editorial Support for Methods in Policy Analytics
 
-##Aim and Audience
+## Aim and Audience
 Methods in Policy Analytics is a proposed open access, open review journal focused on providing high quality, replicable, and easy-to-follow tutorials for modern data and analytics driven policy analysis methods. Policy analytics is defined as “the combination of new sources and forms of policy-relevant data with the use of new analytics techniques and capacity to support policymaking” (Longo and McNutt 2018, 368).
 
 The aim of Policy Methods is to be the go-to resource for practicing policy analysts and academics seeking to identify and apply new, data-driven research methods suitable for addressing public policy problems from a policy analytic perspective. Readers will find tutorials on a range of methods applicable to any policy area, with exercises that can be followed across a  spectrum of platforms and disciplines, and at all levels of technical competency.
@@ -27,7 +27,7 @@ Policy Methods will cover all methodologies for policy analysis, but it will tar
 - Impact Assessment
 - Evaluation
 
-##Open Review and Workflow
+## Open Review and Workflow
 Contributions will be rigorously peer-reviewed using an open review process. Editors and peer-reviewers will be accountable for providing constructive and supportive feedback on articles, but any members of the scholarly community agreeing to the journal’s Code of Conduct are welcome to provide constructive and supportive criticism. As with traditional journals, peer-reviewers will be selected for their understanding of the policy topic, but must also be sufficiently aware of usability to advise on the appropriateness of the tutorial for the audience. While the process is open, the ultimate decision to publish lies with the editor, with approval support from the reviewers.
 
 The journal will be developed using Github.com, using the issue feature gain feedback on proposals and submissions.  Articles will be composed in Markdown for easy formatting.
