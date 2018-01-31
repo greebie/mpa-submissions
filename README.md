@@ -1,0 +1,2 @@
+# mpa-submissions
+Methods in Policy Analytics is a proposed open access, open review journal focused on providing high quality, replicable, and easy-to-follow tutorials for modern data and analytics driven policy analysis methods. Policy analytics is defined as “the combination of new sources and forms of policy-relevant data with the use of new analytics techniques and capacity to support policymaking” (Longo and McNutt 2018, 368).
